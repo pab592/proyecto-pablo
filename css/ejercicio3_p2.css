@@ -47,9 +47,9 @@ background-color: #E8F4F8;
 }
 
 .menu-navegacion a:hover {
-    background-color: #004499;
+    background-color: black;
     color: #FFFFFF;
-    border: 2px solid #002266;
+    border: 2px solid white;
     transform: scale(1.05);
 }
 
@@ -91,7 +91,11 @@ background-color: #E8F4F8;
 
 .enlace-leer-mas:hover {
     text-decoration: underline;
+     color: #FFFFFF;
+    border: 2px solid white;
+    transform: scale(1.05);
 }
+
 
 .pie-pagina {
     background-color: #0066CC;
